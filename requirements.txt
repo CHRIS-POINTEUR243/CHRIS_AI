@@ -1,0 +1,5 @@
+streamlit
+requests
+python-dotenv
+ddgs
+ibm-cloud-sdk-core
